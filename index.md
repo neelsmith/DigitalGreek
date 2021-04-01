@@ -1,20 +1,17 @@
 
 @def title = "Digital Greek"
 
-# Greek in the twenty-first century
-
-On this site, I'm documenting some of my work in progress to address gaps in our current infrastructure for studying ancient Greek.  I'm attempting to explain not only the code I'm developing, but the scholarly perspective that guides my decisions.  
+# Working with polytonic Greek in the twenty-first century
 
 
-My intention is to develop complete solutions to the problems I analyze here during the course of a sabbatical year in 2021-2022.  All pages include the date the site was last modified, so you can see whether work is incomplete or has gone stale.
+## News and updates
 
-
-The code is openly licensed and freely availale on github. All examples of code on the web site are executed as part of the build process, and all example output you see was automatically generated, so you can be sure that the examples can be replicated.
+- April 1, 2020: place-holder web site created on github pages. Not an April's fool joke.
 
 
 ## Contents
 
-
+- [About this site](/about/). Scope and goals of this web site.
 - [Digital Classics](/guide/overview/).  A scholarly perspective on current challenges in the computer-assisted study of ancient Greek.
 - [Writing Greek](/guide/orthographies/). Working with Greek in multiple orthographies.
 - [Parsing Greek](/guide/morphologies/). Morphological parsing.
