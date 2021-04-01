@@ -1,4 +1,4 @@
 # This file was generated, do not modify it. # hide
 using PolytonicGreek
-stripped = rmaccents("μῆνιν")
-@show stripped
+accented = accentword("κελεύει", :RECESSIVE)
+@show accented
