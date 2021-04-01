@@ -6,7 +6,7 @@
 
 ## News and updates
 
-- April 1, 2020: place-holder web site created on github pages. Not an April's fool joke.
+- See all [announcements and updates](/news/)
 
 
 ## Contents
