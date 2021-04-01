@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://neelsmith.github.io/DigitalGreek/quickexx/index.html</loc>
+    <loc>https://neelsmith.github.io/DigitalGreek/guide/morphologies/index.html</loc>
     <lastmod>2021-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -20,13 +20,31 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://neelsmith.github.io/DigitalGreek/code/juliadocs/index.html</loc>
+    <lastmod>2021-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://neelsmith.github.io/DigitalGreek/index.html</loc>
     <lastmod>2021-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://neelsmith.github.io/DigitalGreek/juliadocs/index.html</loc>
+    <loc>https://neelsmith.github.io/DigitalGreek/guide/orthographies/index.html</loc>
+    <lastmod>2021-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://neelsmith.github.io/DigitalGreek/code/quickexx/index.html</loc>
+    <lastmod>2021-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://neelsmith.github.io/DigitalGreek/guide/overview/index.html</loc>
     <lastmod>2021-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
