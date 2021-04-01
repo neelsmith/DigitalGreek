@@ -1,3 +1,6 @@
+@def title = "Tagged pages"
+
+
 # Tags for pages
 
-TBA
+- pages with tag [`code`](/tag/code/)
