@@ -15,7 +15,7 @@ The code is openly licensed and freely availale on github. All examples of code 
 ## Contents
 
 
-- [Digital Classics](/guide/overview/).  A scholarly perspective on computer-assisted study of ancient Greek.
+- [Digital Classics](/guide/overview/).  A scholarly perspective on current challenges in the computer-assisted study of ancient Greek.
 - [Writing Greek](/guide/orthographies/). Working with Greek in multiple orthographies.
 - [Parsing Greek](/guide/morphologies/). Morphological parsing.
 
