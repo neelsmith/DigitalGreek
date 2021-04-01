@@ -1,13 +1,12 @@
 
 @def title = "Digital Greek"
 
-# Working with polytonic Greek in the twenty-first century
+# Working with ancient Greek in the twenty-first century
 
 
 ## News and updates
 
 - See all [announcements and updates](/news/)
-
 
 ## Contents
 
