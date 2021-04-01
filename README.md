@@ -1,7 +1,7 @@
 
 # Digital Greek
 
-This repository hosts the source for the web site at <https://neelsmith.github.io/DigitalGreek/>.
+This repository hosts the source for the web site at <https://neelsmith.github.io/DigitalGreek/>.  Initial placeholder site was published on April 1, 2021.
 
 
 Digital Greek discusses ways to work computationally with the orthographies and morphologies of text corpora in many varieties of ancient Greek.  It includes replicable examples of code.
