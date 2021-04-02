@@ -7,6 +7,33 @@ end
 
 
 
+function hfun_mostrecentpost()
+   
+    sorter(p) = begin
+        ps  = splitext(p)[1]
+        url = "/news/$ps/"
+        surl = strip(url, '/')
+        pubdate = pagevar(surl, :published)
+        if isnothing(pubdate)
+            return Date(Dates.unix2datetime(stat(surl * ".md").ctime))
+        end
+        return Date(pubdate, dateformat"d U Y")
+    end
+
+    list = readdir("news")
+    filter!(f -> endswith(f, ".md"), list)
+    sort!(list, by=sorter, rev=true)
+    ps  = splitext(list[1])[1]
+    topurl = "/news/$ps/"
+    topstripped = strip(topurl, '/')
+    topdate = pagevar(topstripped, :published)
+    toptitle = pagevar(topstripped, :title)
+    formatteddate = Date(topdate, dateformat"d U Y")
+    
+    io = IOBuffer()
+    write(io, """<span class='datelabel'>$topdate</span><a href="$topurl">$toptitle</a>""")
+    return String(take!(io))
+end
 
 function hfun_blogposts()
   today = Dates.today()

@@ -2,4 +2,4 @@
 
 # Writing systems, analog and digital
 
-TBA
+> TBA from forthcoming blog post
