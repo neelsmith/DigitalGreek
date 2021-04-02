@@ -58,6 +58,8 @@ tokens = Orthography.tokenize(attic, s)
 \output{./code_home/imports}
 
 
+- See [documentation](https://neelsmith.github.io/AtticGreek.jl/stable/) for the `AtticGreek` package 
+
 ## Next steps
 
 In version 0.2, I plan to implement the `GreekOrthography` interface to support accentuation, syllabification and sorting.  This will make it possible to implement morphological parsers using the `Kanones` package with an `AtticGreek` orthography. 
