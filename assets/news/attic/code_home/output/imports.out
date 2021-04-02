@@ -1,0 +1,1 @@
+tokens = Orthography.OrthographicToken[Orthography.OrthographicToken("hο", Orthography.LexicalToken()), Orthography.OrthographicToken("δêμος", Orthography.LexicalToken())]
