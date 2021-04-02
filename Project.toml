@@ -1,4 +1,5 @@
 [deps]
+AtticGreek = "330c8319-f7ed-461a-8c52-cee5da4c0892"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
 NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
@@ -6,5 +7,6 @@ Orthography = "0b4c9448-09b0-4e78-95ea-3eb3328be36d"
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
 
 [compat]
-Orthography = "0.6"
-PolytonicGreek = "0.6"
+AtticGreek = "0.1"
+Orthography = "0.7"
+PolytonicGreek = "0.7"
