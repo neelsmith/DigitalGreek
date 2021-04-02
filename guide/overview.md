@@ -3,8 +3,11 @@
 
 # Historical languages and digital texts
 
+> TBA from forthcoming blog post
 
 ## Digital Classics
+
+> TBA from forthcoming blog post
 
 ## Current challenges
 

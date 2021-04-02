@@ -4,7 +4,8 @@
 
 # Quick examples
 
-I hope to include on this page examples using two distinct orthographies for each category listed in the table of contents.
+For each topic listed in the contents, 
+I hope to include code snippets using both literary Greek and archaic Attic orthography.
 
 
 \toc
@@ -14,7 +15,7 @@ I hope to include on this page examples using two distinct orthographies for eac
 
 ### Validating string values
 
-Default orthography.
+Literary Greek orthography.
 
 ```julia:./code_home/imports
 using PolytonicGreek, Orthography
@@ -49,7 +50,7 @@ tokenlist = lg.tokenizer.("μῆνιν ἄειδε, θεά.")
 
 ### Enumerating values
 
-Enumerate all token categories and all valid code points: default orthography.
+Literary Greek orthography.
 
 ```julia:./code_home/imports
 using PolytonicGreek
@@ -79,7 +80,7 @@ lg = literaryGreek()
 
 ### Manipulating accents
 
-Removing and adding accents to words:  default orthography.
+Removing and adding accents to words:  the `PolytonicGreek` package defaults to literary Greek orthography.
 
 ```julia:./code_home/imports
 

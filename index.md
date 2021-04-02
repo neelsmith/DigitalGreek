@@ -6,7 +6,8 @@
 
 ## News and updates
 
-- See all [announcements and updates](/news/)
+- Newest post: {{mostrecentpost}}
+- See all [news and updates](/news/)
 
 ## Contents
 
