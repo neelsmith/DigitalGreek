@@ -1,0 +1,5 @@
+1. activate julia project
+2. using Franklin
+3. serve()
+
+That's it!
