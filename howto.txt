@@ -16,3 +16,7 @@ That's it to edit content.
 2. merge dev into main
 
 That should deploy to the `gh-pages` branch
+
+## Information
+
+This site uses the `vela` theme/template for Franklin.
