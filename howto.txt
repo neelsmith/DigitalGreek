@@ -1,5 +1,18 @@
+
+## Developing
+
+Within `dev` branch
+
 1. activate julia project
 2. using Franklin
 3. serve()
 
-That's it!
+That's it to edit content.
+
+
+## Publishing
+
+1. push to gh
+2. merge dev into main
+
+That should deploy to the `gh-pages` branch
